@@ -74,8 +74,7 @@ Scale font size by scaling factor.
 ### @AutoScale
 ```java
 @AutoScale(width = 400, height = 48, as = "010")
-int space = 500,
-        x = 150;
+JButton button;
 ```
 - width, height (*required*)
 - as (*optional*)
